@@ -1,0 +1,28 @@
+h2{
+    color: brown;
+    color: white;
+}
+
+#container{
+    display: flex;
+    float: left;
+    
+}
+
+.photo1{
+    width:300px;
+    height: 400px;
+    padding: 100px 200px;
+}
+
+body{
+    background-color: darkslategray;
+    font-size: large;
+    color: white;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+
